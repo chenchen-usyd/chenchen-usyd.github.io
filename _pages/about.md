@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <a href='https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html'>School of Computer Science</a>,
+  <a href='https://www.sydney.edu.au/'>University of Sydney</a>.
+  Contact: <code>cche0711 [at] uni [dot] sydney [dot] edu [dot] au</code>.
 
 profile:
   align: right
