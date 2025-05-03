@@ -5,16 +5,14 @@ permalink: /
 subtitle: >
   <a href='https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html'>School of Computer Science</a>,
   <a href='https://www.sydney.edu.au/'>University of Sydney</a>.
-  Contact: <code>cche0711 [at] uni [dot] sydney [dot] edu [dot] au</code>.
+  Contact: cche0711 [at] uni [dot] sydney [dot] edu [dot] au.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: chenchen.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>The mood right before crossing the finish line – Sydney Marathon 2024</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
