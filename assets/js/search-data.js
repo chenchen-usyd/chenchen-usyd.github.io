@@ -440,14 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-have-completed-my-applied-scientist-internship-at-amazon-and-received-an-inclined-vote-for-return",
+            },},{id: "news-i-have-completed-my-applied-scientist-internship-at-amazon-and-received-an-inclined-vote-for-return",
           title: 'I have completed my Applied Scientist internship at Amazon and received an inclined...',
           description: "",
           section: "News",},{id: "news-paper-accepted-our-paper-exploring-local-memorization-in-diffusion-models-via-bright-ending-attention-has-been-accepted-at-iclr-2025-as-a-spotlight-paper-top-5-1",
           title: '[Paper accepted] Our paper “Exploring Local Memorization in Diffusion Models via Bright Ending...',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-our-paper-enhancing-privacy-utility-trade-offs-to-mitigate-memorization-in-diffusion-models-has-been-accepted-at-cvpr-2025",
+          title: '[Paper accepted] Our paper “Enhancing Privacy-Utility Trade-offs to Mitigate Memorization in Diffusion Models”...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
