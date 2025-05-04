@@ -5,8 +5,6 @@ title: achievements
 nav: true
 nav_order: 5
 description: Summary of my recent awards, achievements, and affiliations.
-toc:
-  sidebar: left
 ---
 
 ## awards & achievements
