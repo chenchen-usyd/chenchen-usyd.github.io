@@ -4,18 +4,9 @@
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
-        {%- if site.data.venues[entry.abbr] -%}
-          {% assign venue_style = site.data.venues[entry.abbr].color 
-                               | prepend: 'style="background-color:' 
-                               | append: '"' %}
-          <abbr class="badge rounded w-100" {{ venue_style }}>
-            {{ entry.abbr }}
-          </abbr>
-        {%- else -%}
-          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
-        {%- endif -%}
+        <abbr class="badge rounded w-100 venue-badge">{{ entry.abbr }}</abbr>
       {%- endif -%}
-
+      
       {%- if entry.award_name -%}
         <abbr class="badge rounded spotlight-badge">{{ entry.award_name }}</abbr>
       {%- endif -%}
