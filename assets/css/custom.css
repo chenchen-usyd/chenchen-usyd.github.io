@@ -1,15 +1,23 @@
-/* 1) Spotlight badge: purple text, transparent bg, purple border, 75% width of container */
-.badge.spotlight-badge {
-  background-color: transparent;
-  color: #9c27b0;
-  border: 1px solid #9c27b0;
-  width: 75%;
-  padding: 0.25em 0.5em;
-  display: inline-block;
-  text-align: center;
+/* venue‑badge (e.g. “ICLR 2025”) = solid purple background, white text */
+.badge.venue-badge {
+  background-color: #9c27b0 !important;
+  color:            #fff    !important;
 }
 
-/* 2) Spotlight award‐line text */
+/* spotlight‑badge = transparent bg, purple text & border, 75% width */
+.badge.spotlight-badge {
+  background-color: transparent       !important;
+  color:            #9c27b0            !important;
+  border:           1px solid #9c27b0 !important;
+  width:            50%                !important;
+  padding:          0.25em 0.5em       !important;
+  display:          inline-block;
+  text-align:       center;
+}
+
+/* the “Spotlight Paper […]” line */
 .spotlight-text {
-  color: #9c27b0;
+  color:      #9c27b0 !important;
+  font-weight: bold;
+  margin:      0.5em 0;
 }
