@@ -5,7 +5,7 @@
 }
 
 /* spotlight‑badge = transparent bg, purple text & border, 50% width, centered */
-abbr.badge.spotlight‑badge {
+abbr.badge.spotlight-badge {
   display:        block !important;      /* so margin:auto will centre it */
   margin:         0.25em auto !important;/* centre under the ICLR pill */
   width:          50% !important;        /* exactly half the width of its container */
