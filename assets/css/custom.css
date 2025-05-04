@@ -1,0 +1,15 @@
+/* 1) Spotlight badge: purple text, transparent bg, purple border, 75% width of container */
+.badge.spotlight-badge {
+  background-color: transparent !important;
+  color: #9c27b0 !important;
+  border: 1px solid #9c27b0 !important;
+  width: 75% !important;
+  padding: 0.25em 0.5em !important;
+  display: inline-block;
+  text-align: center;
+}
+
+/* 2) Spotlight award‐line text */
+.spotlight-text {
+  color: #9c27b0 !important;
+}
