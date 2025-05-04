@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Paper accepted] Our paper "Investigating Memorization in Video Diffusion Models" has been accepted at DATA-FM Workshop @ ICLR 2025.
+**[Paper accepted]** Our paper "Investigating Memorization in Video Diffusion Models" has been accepted at DATA-FM Workshop @ ICLR 2025.
