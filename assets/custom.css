@@ -1,0 +1,15 @@
+/* make the Spotlight badge text purple, transparent background, auto‑width */
+.spotlight-badge {
+  background-color: transparent !important;
+  color: #9c27b0 !important;        /* same purple as ICLR badge text */
+  border: 1px solid #9c27b0 !important;
+  width: auto !important;           /* shrink to text */
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+/* make the award‑line text purple */
+.spotlight-text {
+  color: #9c27b0 !important;
+  font-weight: bold;
+}
