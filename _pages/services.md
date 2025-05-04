@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /services/
-title: Services
+title: services
 nav: true
 nav_order: 6
 description: Summary of my professional service activities.
@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-## Professional Services
+## professional services
 
 Active reviewer for premier conferences in the field of Computer Vision, Machine Learning, and Artificial Intelligence, including:
 
