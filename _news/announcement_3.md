@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Paper accepted] Our paper "Enhancing Privacy-Utility Trade-offs to Mitigate Memorization in Diffusion Models" has been accepted at CVPR 2025.
+**[Paper accepted]** Our paper "Enhancing Privacy-Utility Trade-offs to Mitigate Memorization in Diffusion Models" has been accepted at CVPR 2025.
