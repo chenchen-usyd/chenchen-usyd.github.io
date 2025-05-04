@@ -9,7 +9,7 @@ abbr.badge.spotlight-badge {
   display:        block !important;      /* so margin:auto will centre it */
   margin:         0.25em auto !important;/* centre under the ICLR pill */
   width:          50% !important;        /* exactly half the width of its container */
-  background:     transparent !important;
+  background:     #D4AF37 !important;
   border:         1px solid #D4AF37 !important;
   color:          #D4AF37 !important;   /* purple text */
   text-align:     center !important;
