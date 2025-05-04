@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-achievements",
-          title: "Achievements",
+          title: "achievements",
           description: "Summary of my recent awards, achievements, and affiliations.",
           section: "Navigation",
           handler: () => {
