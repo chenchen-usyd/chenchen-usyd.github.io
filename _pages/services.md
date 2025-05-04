@@ -4,12 +4,8 @@ permalink: /services/
 title: services
 nav: true
 nav_order: 6
-description: Summary of my professional service activities.
+description: I am an active reviewer for premier conferences in the field of Computer Vision, Machine Learning, and Artificial Intelligence, including:
 ---
-
-## professional services
-
-Active reviewer for premier conferences in the field of Computer Vision, Machine Learning, and Artificial Intelligence, including:
 
 - **International Conference on Learning Representations (ICLR)**, 2025  
 - **Advances in Neural Information Processing Systems (NeurIPS)**, 2024–2025  
