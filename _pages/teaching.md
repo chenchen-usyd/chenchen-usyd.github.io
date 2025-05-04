@@ -7,11 +7,11 @@ nav: true
 nav_order: 3
 ---
 
-## Tutoring
+## tutoring
 - [COMP5329: Deep Learning](https://www.sydney.edu.au/units/COMP5329), 2024-2025.
 - [COMP5046: Natural Language Processing](https://www.sydney.edu.au/units/COMP5046), 2024-2025.
 - [COMP5339: Data Engineering](https://www.sydney.edu.au/units/COMP5339), 2024-2025.
 
-## Guest Lecturer
+## guest lecturer
 - [COMP5329: Deep Learning](https://www.sydney.edu.au/units/COMP5329), 2024-2025.
 - [HTIN5005 Applied Healthcare Data Science](https://www.sydney.edu.au/units/HTIN5005), 2023.
