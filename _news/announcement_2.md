@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have completed my Applied Scientist internship at Amazon and received an inclined vote for return.
+**[Internship]** I have completed my Applied Scientist internship at Amazon and received an inclined vote for return.
