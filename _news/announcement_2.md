@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Paper accepted] Our paper "Exploring Local Memorization in Diffusion Models via Bright Ending Attention" has been accepted at ICLR 2025 as a Spotlight paper (Top 5.1%).
+I have completed my Applied Scientist internship at Amazon and received an inclined vote for return.
