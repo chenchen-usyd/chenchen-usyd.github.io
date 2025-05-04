@@ -4,14 +4,18 @@
   color:            #fff    !important;
 }
 
-/* spotlight‑badge = transparent bg, purple text & border, 75% width */
+/* spotlight‑badge = transparent bg, purple text & border, 50% width, centered */
 .badge.spotlight-badge {
   background-color: transparent       !important;
   color:            #9c27b0            !important;
-  border:           1px solid #9c27b0 !important;
+  border:           1px solid #9c27b0  !important;
   width:            50%                !important;
   padding:          0.25em 0.5em       !important;
-  display:          inline-block;
+
+  /* make it block so margin‑auto will center it */
+  display:          block              !important;
+  margin:           0.5em auto         !important;
+
   text-align:       center;
 }
 
