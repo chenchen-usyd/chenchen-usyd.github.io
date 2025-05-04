@@ -17,16 +17,7 @@
       {%- endif -%}
 
       {%- if entry.award_name -%}
-        {%- if site.data.venues[entry.award_name] -%}
-          {% assign aw_style = site.data.venues[entry.award_name].color 
-                              | prepend: 'style="background-color:' 
-                              | append: '"' %}
-          <abbr class="badge rounded w-100" {{ aw_style }}>
-            {{ entry.award_name }}
-          </abbr>
-        {%- else -%}
-          <abbr class="badge rounded spotlight-badge">{{ entry.award_name }}</abbr>
-        {%- endif -%}
+        <abbr class="badge rounded spotlight-badge">{{ entry.award_name }}</abbr>
       {%- endif -%}
 
       {%- if entry.preview -%}
@@ -175,10 +166,7 @@
     <div class="periodical">{{ entry.note | strip }}</div>
 
     {%- if entry.award -%}
-      <div class="award-text spotlight-text"
-           style="color: {{ site.data.venues[entry.award_name].color | default: '#f60' }};
-                  font-weight: bold;
-                  margin: 0.5em 0;">
+      <div class="award-text spotlight-text">
         {{ entry.award | markdownify }}
       </div>
     {%- endif -%}
