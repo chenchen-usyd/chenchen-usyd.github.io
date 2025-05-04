@@ -1,0 +1,22 @@
+---
+layout: page
+permalink: /services/
+title: Services
+nav: true
+nav_order: 6
+description: Summary of my professional service activities.
+toc:
+  sidebar: left
+---
+
+## Professional Services
+
+Active reviewer for premier conferences in the field of Computer Vision, Machine Learning, and Artificial Intelligence, including:
+
+- **International Conference on Learning Representations (ICLR)**, 2025  
+- **Advances in Neural Information Processing Systems (NeurIPS)**, 2024–2025  
+- **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024–2025  
+- **International Conference on Machine Learning (ICML)**, 2024–2025  
+- **International Conference on Computer Vision (ICCV)**, 2025  
+- **AAAI Conference on Artificial Intelligence (AAAI)**, 2024–2025  
+- **ACM Multimedia (ACM MM)**, 2024  
