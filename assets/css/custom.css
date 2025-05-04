@@ -6,21 +6,19 @@
 
 /* spotlight‑badge = transparent bg, purple text & border, 50% width, centered */
 .badge.spotlight-badge {
-  background-color: transparent       !important;
-  color:            #9c27b0            !important;
-  border:           1px solid #9c27b0  !important;
-  width:            50%                !important;
+  background-color: transparent    !important;
+  color:            #9c27b0         !important;  /* purple text */
+  border:           1px solid #9c27b0 !important;  
+  width:            50%              !important;  
+  display:          block;                    /* make it a block so margin auto works */
+  margin:           0.25em auto;             /* center it under the ICLR pill */
+  text-align:       center;                 
   padding:          0.25em 0.5em       !important;
-
-  /* make it block so margin‑auto will center it */
-  display:          block              !important;
-  margin:           0.5em auto         !important;
-
-  text-align:       center;
 }
 
+
 /* the “Spotlight Paper […]” line */
-.spotlight-text {
+.award-text.spotlight-text {
   color:      #9c27b0 !important;
   font-weight: bold;
   margin:      0.5em 0;
