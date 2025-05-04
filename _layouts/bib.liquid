@@ -25,7 +25,7 @@
             {{ entry.award_name }}
           </abbr>
         {%- else -%}
-          <abbr class="badge rounded w-100">{{ entry.award_name }}</abbr>
+          <abbr class="badge rounded spotlight-badge">{{ entry.award_name }}</abbr>
         {%- endif -%}
       {%- endif -%}
 
@@ -175,7 +175,7 @@
     <div class="periodical">{{ entry.note | strip }}</div>
 
     {%- if entry.award -%}
-      <div class="award-text"
+      <div class="award-text spotlight-text"
            style="color: {{ site.data.venues[entry.award_name].color | default: '#f60' }};
                   font-weight: bold;
                   margin: 0.5em 0;">
