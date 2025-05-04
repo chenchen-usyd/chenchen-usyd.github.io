@@ -5,8 +5,6 @@ title: services
 nav: true
 nav_order: 6
 description: Summary of my professional service activities.
-toc:
-  sidebar: left
 ---
 
 ## professional services
