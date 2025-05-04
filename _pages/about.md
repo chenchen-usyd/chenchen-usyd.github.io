@@ -2,16 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  Second-year PhD student at <a href='https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html'>School of Computer Science</a>,
-  <a href='https://www.sydney.edu.au/'>University of Sydney</a>.
 
 profile:
   align: right
   image: chenchen.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>The mood before crossing the finish line – Sydney Marathon 2024</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,4 +22,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year PhD student in <a href='https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html'>School of Computer Science</a>, <a href='https://www.sydney.edu.au/'>University of Sydney</a>. Contact: cche0711 [at] uni [dot] sydney [dot] edu [dot] au.
+Hi! I’m a second‑year PhD student in the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) at the [University of Sydney](https://www.sydney.edu.au/), and I’m fortunate to be advised by Associate Professor [Chang Xu](http://changxu.xyz/).
+
+My research centers on developing robust privacy guarantees for state-of-the-art generative models, such as diffusion models and GANs, to prevent the unauthorized disclosure and replication of sensitive and proprietary training data, thus also protecting both users and owners of such models from legal complexities. Key to this effort is a dual focus: not only safeguarding against legal and ethical violations related to content like copyrighted artworks and patient medical information, but also preserving the models’ generative performance to the fullest extent. This includes ensuring minimal impact on the quality and utility of generated outputs, such as maintaining the text alignment of synthetic images in text-to-image generation tasks for models like Stable Diffusion.
