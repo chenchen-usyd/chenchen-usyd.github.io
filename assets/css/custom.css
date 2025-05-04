@@ -6,12 +6,12 @@
 
 /* spotlight‑badge = transparent bg, purple text & border, 50% width, centered */
 abbr.badge.spotlight-badge {
-  display:        block !important;      /* so margin:auto will centre it */
-  margin:         0.25em auto !important;/* centre under the ICLR pill */
+  display: inline‑block !important;    /* shrink to its content and respect left margin */
+  margin:         0.12em 0 0.12em 0 !important;  /* top 0.25em, right 0, bottom 0, left 0 */
   width:          50% !important;        /* exactly half the width of its container */
   background:     #D4AF37 !important;
   border:         1px solid #D4AF37 !important;
-  color:          #D4AF37 !important;   /* purple text */
+  color:          #D4AF37 !important;
   text-align:     center !important;
   padding:        0.25em 0.5em !important;
 }
