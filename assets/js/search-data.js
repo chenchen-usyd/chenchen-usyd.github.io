@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-have-completed-my-applied-scientist-internship-at-amazon-and-received-an-inclined-vote-for-return",
-          title: 'I have completed my Applied Scientist internship at Amazon and received an inclined...',
+            },},{id: "news-paper-accepted-our-paper-exploring-local-memorization-in-diffusion-models-via-bright-ending-attention-has-been-accepted-at-iclr-2025-as-a-spotlight-paper-top-5-1",
+          title: '[Paper accepted] Our paper “Exploring Local Memorization in Diffusion Models via Bright Ending...',
           description: "",
           section: "News",},{id: "news-paper-accepted-our-paper-exploring-local-memorization-in-diffusion-models-via-bright-ending-attention-has-been-accepted-at-iclr-2025-as-a-spotlight-paper-top-5-1",
           title: '[Paper accepted] Our paper “Exploring Local Memorization in Diffusion Models via Bright Ending...',
