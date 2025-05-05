@@ -25,3 +25,5 @@ latest_posts:
 Hi! I’m a second‑year PhD student in the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) at the [University of Sydney](https://www.sydney.edu.au/), and I’m fortunate to be advised by Associate Professor [Chang Xu](http://changxu.xyz/).
 
 My research centers on developing robust privacy guarantees for state-of-the-art generative models, such as diffusion models, to prevent the unauthorized disclosure and replication of sensitive and proprietary training data, thus also protecting both users and owners of such models from legal complexities. Key to this effort is a dual focus: not only safeguarding against legal and ethical violations related to content like copyrighted artworks and patient medical information, but also preserving the models’ generative performance to the fullest extent. This includes ensuring minimal impact on the quality and utility of generated outputs, such as maintaining the text alignment of synthetic images in text-to-image generation tasks for models like Stable Diffusion.
+
+Contact: cche0711[at]uni.sydney.edu.au
