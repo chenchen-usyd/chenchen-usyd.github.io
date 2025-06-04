@@ -405,7 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-accepted-our-paper-exploring-local-memorization-in-diffusion-models-via-bright-ending-attention-has-been-accepted-at-iclr-2025-as-a-spotlight-paper-top-5-1",
+            },},{id: "news-marathon-i-have-successfully-finished-the-2024-sydney-marathon-42-195km",
+          title: '[Marathon] I have successfully finished the 2024 Sydney Marathon (42.195km).',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-our-paper-exploring-local-memorization-in-diffusion-models-via-bright-ending-attention-has-been-accepted-at-iclr-2025-as-a-spotlight-paper-top-5-1",
           title: '[Paper accepted] Our paper “Exploring Local Memorization in Diffusion Models via Bright Ending...',
           description: "",
           section: "News",},{id: "news-internship-i-have-completed-my-applied-scientist-internship-at-amazon-and-received-an-inclined-vote-for-return",
