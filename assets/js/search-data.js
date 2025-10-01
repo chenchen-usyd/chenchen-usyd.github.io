@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-services",
           title: "services",
-          description: "I am an active reviewer for premier conferences in the field of Computer Vision, Machine Learning, and Artificial Intelligence",
+          description: "I am an active reviewer for premier conferences and journals in the field of Computer Vision, Machine Learning, and Artificial Intelligence",
           section: "Navigation",
           handler: () => {
             window.location.href = "/services/";
