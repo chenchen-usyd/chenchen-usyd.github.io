@@ -22,8 +22,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m a second‑year PhD student in the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) at the [University of Sydney](https://www.sydney.edu.au/), and I’m fortunate to be advised by Associate Professor [Chang Xu](http://changxu.xyz/).
+Hi! I’m a final‑year PhD student in the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) at the [University of Sydney](https://www.sydney.edu.au/), and I’m fortunate to be advised by Associate Professor [Chang Xu](http://changxu.xyz/).
 
-My research focuses on the intersection of machine perception (generative AI) and privacy-preserving generation. Specifically, I develop robust privacy safeguards for state-of-the-art generative models to enhance the novelty and diversity of outputs while also preventing the unauthorized replication or disclosure of sensitive and proprietary training data. This work aims to protect both end-users and model developers from legal and ethical complications. Central to this effort is a dual objective: ensuring strong protections against legal and ethical violations, such as those involving copyrighted material or sensitive medical records, while maintaining the highest possible fidelity and performance in generative capabilities.
+My research focuses on enhancing the reliability of generative AI, with an emphasis on image and video diffusion models. I have worked on a range of projects advancing privacy, robustness, and trustworthiness in generative models (see publications for details). Beyond these projects, my interests span a wide range of topics in computer vision and machine learning. I am committed to exploring new research directions, adapting to emerging challenges, and rapidly expanding my expertise to make impactful contributions.
 
-Contact: cche0711[at]uni.sydney.edu.au
+Contact: cchenleicester[at]gmail.com
