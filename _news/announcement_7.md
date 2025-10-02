@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[Paper accepted]** Our paper "SRSR: Enhancing Semantic Accuracy in Real-World Image Super-Resolution with Spatially Re-Focused Text-Conditioning" has been accepted at NeurIPS 2025.
+**[Paper accepted]** Our Amazon internship work "SRSR: Enhancing Semantic Accuracy in Real-World Image Super-Resolution with Spatially Re-Focused Text-Conditioning" has been accepted at NeurIPS 2025.
